@@ -1,3 +1,5 @@
+do not merge, dummy commit
+
 # opencv_apps
 Travis CI [![Build Status](https://travis-ci.org/ros-perception/opencv_apps.svg?branch=indigo)](https://travis-ci.org/ros-perception/opencv_apps)
 
